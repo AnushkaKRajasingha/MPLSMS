@@ -1,0 +1,417 @@
+G:\C#\practice\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+G:\C#\practice\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+G:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+G:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+G:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+G:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+G:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+I:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+I:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+I:\C#\practice\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+I:\C#\practice\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+I:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+I:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+I:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+R:\C#\practice\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+R:\C#\practice\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+R:\C#\practice\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+E:\MY_DATA\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+E:\MY_DATA\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+E:\MY_DATA\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+E:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+D:\MY_DATA\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+D:\MY_DATA\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+D:\MY_DATA\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+D:\MY_DATA\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+E:\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+E:\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+E:\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+E:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+I:\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+I:\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+I:\Project\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+I:\Project\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+D:\SYSTEM\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+D:\SYSTEM\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+D:\SYSTEM\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+D:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+K:\SYSTEM\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+K:\SYSTEM\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+K:\SYSTEM\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+K:\SYSTEM\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+C:\Users\SM\Desktop\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+E:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+E:\Data\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmBarCode.resources
+H:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\IDAutomation.NetAssembly.dll
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\IDAutomation.NetAssembly.dll
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmBarCode.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+D:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmLogin.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\IDAutomation.NetAssembly.dll
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmBarCode.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCudDetailRe.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCUSPODetails.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInventory.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoiceReport.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItemDetailRe.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmLogin.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupDetailRe.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+G:\project Backup\11102016\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\bin\Debug\IDAutomation.NetAssembly.dll
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmBarCode.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCudDetailRe.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCUSPODetails.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInventory.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoiceReport.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItemDetailRe.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmLogin.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPaymentReciept.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupDetailRe.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockDetailsRep.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmReceipPrint.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmGRN.resources
+G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmDailySale.resources
