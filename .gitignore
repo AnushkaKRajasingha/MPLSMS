@@ -1,0 +1,5 @@
+*.suo
+MPLSMS/MPLSMS/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+*.cache
+MPLSMS/MPLSMS/obj/x86/Debug/MPLSMS.csproj.FileListAbsolute.txt
+*.cache
