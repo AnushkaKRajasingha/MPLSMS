@@ -41,14 +41,16 @@
             this.cmdEdit = new System.Windows.Forms.Button();
             this.cmdExit = new System.Windows.Forms.Button();
             this.cmdSave = new System.Windows.Forms.Button();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.chkCusBlocked = new System.Windows.Forms.CheckBox();
+            this.lblBlocked = new System.Windows.Forms.Label();
             this.groupBox4.SuspendLayout();
             this.groupBox6.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.checkBox1);
+            this.groupBox4.Controls.Add(this.lblBlocked);
+            this.groupBox4.Controls.Add(this.chkCusBlocked);
             this.groupBox4.Controls.Add(this.label4);
             this.groupBox4.Controls.Add(this.cboCusName);
             this.groupBox4.Controls.Add(this.cboCusId);
@@ -183,17 +185,29 @@
             this.cmdSave.Text = "Save";
             this.cmdSave.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.cmdSave.UseVisualStyleBackColor = true;
+            this.cmdSave.Click += new System.EventHandler(this.cmdSave_Click);
             // 
-            // checkBox1
+            // chkCusBlocked
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(371, 97);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(61, 19);
-            this.checkBox1.TabIndex = 28;
-            this.checkBox1.Text = "Block";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.chkCusBlocked.AutoSize = true;
+            this.chkCusBlocked.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chkCusBlocked.Location = new System.Drawing.Point(371, 97);
+            this.chkCusBlocked.Name = "chkCusBlocked";
+            this.chkCusBlocked.Size = new System.Drawing.Size(61, 19);
+            this.chkCusBlocked.TabIndex = 28;
+            this.chkCusBlocked.Text = "Block";
+            this.chkCusBlocked.UseVisualStyleBackColor = true;
+            // 
+            // lblBlocked
+            // 
+            this.lblBlocked.AutoSize = true;
+            this.lblBlocked.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBlocked.ForeColor = System.Drawing.Color.DarkRed;
+            this.lblBlocked.Location = new System.Drawing.Point(368, 60);
+            this.lblBlocked.Name = "lblBlocked";
+            this.lblBlocked.Size = new System.Drawing.Size(150, 16);
+            this.lblBlocked.TabIndex = 29;
+            this.lblBlocked.Text = "Custemer Is Blocked";
             // 
             // frmAproveCredit
             // 
@@ -226,6 +240,7 @@
         private System.Windows.Forms.Button cmdEdit;
         private System.Windows.Forms.Button cmdExit;
         private System.Windows.Forms.Button cmdSave;
-        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox chkCusBlocked;
+        private System.Windows.Forms.Label lblBlocked;
     }
 }
