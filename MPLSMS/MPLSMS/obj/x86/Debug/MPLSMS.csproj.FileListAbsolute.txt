@@ -418,3 +418,44 @@ G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmDailySale.resou
 F:\Project Data\MPLSMS\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
 F:\Project Data\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
 F:\Project Data\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\bin\Debug\MPLSMS.pdb
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\bin\Debug\IDAutomation.NetAssembly.dll
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csprojResolveAssemblyReference.cache
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.FfrmGrantAccess.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAddStock.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmAproveCredit.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmBarCode.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCashPayment.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChangePwd.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmChequeStatus.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCrediPayment.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCudDetailRe.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCusPO.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCUSPODetails.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmCustomer.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmDailySale.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmGRN.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmICategory.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInventory.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoice.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmInvoiceReport.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItem.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmItemDetailRe.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmLogin.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmMPLMain.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPaymentReciept.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmPO.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmReceipPrint.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSRole.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStaff.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockAdjestment.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockDetailsRep.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupDetailRe.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmSupplier.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmViewEntry.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.Properties.Resources.resources
+D:\Data\GITHUB\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.csproj.GenerateResource.Cache

@@ -34,8 +34,6 @@
             this.cboCusName = new System.Windows.Forms.ComboBox();
             this.cboCusId = new System.Windows.Forms.ComboBox();
             this.txtCreditLimit = new System.Windows.Forms.TextBox();
-            this.txtUnrealizedCheque = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.txtOutstandingBalance = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
@@ -43,18 +41,18 @@
             this.cmdEdit = new System.Windows.Forms.Button();
             this.cmdExit = new System.Windows.Forms.Button();
             this.cmdSave = new System.Windows.Forms.Button();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.groupBox4.SuspendLayout();
             this.groupBox6.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox4
             // 
+            this.groupBox4.Controls.Add(this.checkBox1);
             this.groupBox4.Controls.Add(this.label4);
             this.groupBox4.Controls.Add(this.cboCusName);
             this.groupBox4.Controls.Add(this.cboCusId);
             this.groupBox4.Controls.Add(this.txtCreditLimit);
-            this.groupBox4.Controls.Add(this.txtUnrealizedCheque);
-            this.groupBox4.Controls.Add(this.label2);
             this.groupBox4.Controls.Add(this.txtOutstandingBalance);
             this.groupBox4.Controls.Add(this.label1);
             this.groupBox4.Controls.Add(this.label16);
@@ -92,6 +90,7 @@
             this.cboCusId.Size = new System.Drawing.Size(71, 21);
             this.cboCusId.Sorted = true;
             this.cboCusId.TabIndex = 8;
+            this.cboCusId.SelectedIndexChanged += new System.EventHandler(this.cboCusId_SelectedIndexChanged);
             // 
             // txtCreditLimit
             // 
@@ -99,23 +98,6 @@
             this.txtCreditLimit.Name = "txtCreditLimit";
             this.txtCreditLimit.Size = new System.Drawing.Size(181, 20);
             this.txtCreditLimit.TabIndex = 9;
-            // 
-            // txtUnrealizedCheque
-            // 
-            this.txtUnrealizedCheque.Location = new System.Drawing.Point(167, 130);
-            this.txtUnrealizedCheque.Name = "txtUnrealizedCheque";
-            this.txtUnrealizedCheque.Size = new System.Drawing.Size(181, 20);
-            this.txtUnrealizedCheque.TabIndex = 9;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(21, 135);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(110, 15);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Unrealized Cheque";
             // 
             // txtOutstandingBalance
             // 
@@ -202,6 +184,17 @@
             this.cmdSave.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.cmdSave.UseVisualStyleBackColor = true;
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox1.Location = new System.Drawing.Point(371, 97);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(61, 19);
+            this.checkBox1.TabIndex = 28;
+            this.checkBox1.Text = "Block";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            // 
             // frmAproveCredit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -226,8 +219,6 @@
         private System.Windows.Forms.ComboBox cboCusName;
         private System.Windows.Forms.ComboBox cboCusId;
         private System.Windows.Forms.TextBox txtCreditLimit;
-        private System.Windows.Forms.TextBox txtUnrealizedCheque;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtOutstandingBalance;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label16;
@@ -235,5 +226,6 @@
         private System.Windows.Forms.Button cmdEdit;
         private System.Windows.Forms.Button cmdExit;
         private System.Windows.Forms.Button cmdSave;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }
