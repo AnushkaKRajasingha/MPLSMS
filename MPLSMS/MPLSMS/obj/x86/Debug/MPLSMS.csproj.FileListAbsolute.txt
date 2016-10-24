@@ -415,3 +415,6 @@ G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmStockDetailsRep
 G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmReceipPrint.resources
 G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmGRN.resources
 G:\BIT Project 2016\System\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.frmDailySale.resources
+F:\Project Data\MPLSMS\MPLSMS\MPLSMS\bin\Debug\MPLSMS.exe.config
+F:\Project Data\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.exe
+F:\Project Data\MPLSMS\MPLSMS\MPLSMS\obj\x86\Debug\MPLSMS.pdb
