@@ -25,6 +25,7 @@ namespace MPLSMS
         DataTable dtGrid;
         DataRow drGrid;
         private int StockNo { get; set; }
+        public String barcode { get; set; }
         private void frmAddStock_Load(object sender, EventArgs e)
         {
             //Open Connection
@@ -41,6 +42,7 @@ namespace MPLSMS
             Prefill();
             MaxVal();
             clear();
+            cmdStockPrint.Enabled = false;
 
             dtGrid = new DataTable("DataGride");
             dtGrid.Columns.Add("Item Code");
@@ -52,7 +54,7 @@ namespace MPLSMS
             dsGrid.Tables.Add(dtGrid);
             dataGridView1.DataSource = dsGrid;
             dataGridView1.DataMember = "DataGride";
-
+            
         }
         public void Prefill()
         {
@@ -78,13 +80,13 @@ namespace MPLSMS
             txtUnit.Text = "";
             txtBin.Text = "";
             txtQty.Text="";
-           
+            
         }
         public void clear2()
         {
             txtBarcode.Text = "";
             txtTotalQty.Text = "";
-            txtItemID.Text = "";
+            //txtItemID.Text = "";
             txtItemDes.Text = "";
             txtUnit.Text = "";
             txtBin.Text = "";
@@ -164,21 +166,27 @@ namespace MPLSMS
             dtGrid.Rows.Add(drGrid);
 
             //string userID = ds.Tables[0].Rows[0].ItemArray[2].ToString();
-            File.WriteAllText(@"G:\BIT Project 2016\System\MPLSMS\txtdata\wordsbarcode.txt", txtItemID.Text);
-            clear2();
+            File.WriteAllText(@"D:\Data\GITHUB\MPLSMS\MPLSMS\txtdata\wordsbarcode.txt", txtItemID.Text);
+            //clear2();
             txtBarcode.Focus();
 
 
          
             if (MessageBox.Show("Do You Want to Print Barcode", "Markspen Labels _ PRINT BARCODE", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
-                frmBarCode bk = new frmBarCode();
-                bk.Show();
+
+                var _frmGRN = new frmBarCode();
+                _frmGRN.barcode = Convert.ToString(txtItemID.Text);
+                _frmGRN.ShowDialog();
+
+                //MessageBox.Show(txtItemID.Text);
+                //frmBarCode bk = new frmBarCode();
+                //bk.Show();
             }
             return; 
                  
             }
-           
+            clear2();
         }
 
         private void cmdStMi_Click(object sender, EventArgs e)
@@ -193,6 +201,18 @@ namespace MPLSMS
 
         private void cmdStockSave_Click(object sender, EventArgs e)
         {
+            // check ICat Name is Empty
+            if (string.IsNullOrEmpty(cboSupId.Text))
+            {
+                MessageBox.Show(" Please, Enter Supplier ", "Markspen Labels");
+                return;
+            }
+            if (string.IsNullOrEmpty(txtQty.Text))
+            {
+                MessageBox.Show(" Please, Enter Supplier ", "Markspen Labels");
+                return;
+            }
+
             // Save data to addstock table 
             pStockDate = new SqlParameter("@StockDate", SqlDbType.Date);
             pSupCode = new SqlParameter("@SupCode", SqlDbType.Int);
@@ -215,7 +235,7 @@ namespace MPLSMS
             com.Parameters.Add(pSupName);
             com.Parameters.Add(pSupAddress);
             com.ExecuteScalar();
-            MessageBox.Show("Stock was added to sadd");
+            //MessageBox.Show("Stock was added to sadd");
 
             //Save Data to addStock Details table
 
@@ -247,7 +267,8 @@ namespace MPLSMS
                 com.Parameters.Add(pQty);
                 com.ExecuteScalar();
                 Row1 = Row1 + 1;
-                MessageBox.Show("Stock was added to saddDetails");
+                //MessageBox.Show("Stock was added to saddDetails");
+                dtGrid.Clear();
 
 
             }
@@ -280,6 +301,7 @@ namespace MPLSMS
 
 
             MessageBox.Show("Stock was Updated");
+            cmdStockPrint.Enabled = true;
             clear();
         }
 
@@ -332,6 +354,7 @@ namespace MPLSMS
         private void cmdItemClear_Click(object sender, EventArgs e)
         {
             clear();
+            cmdStockPrint.Enabled = false;
             dtGrid.Clear();
         }
     }

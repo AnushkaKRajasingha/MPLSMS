@@ -282,6 +282,18 @@ namespace MPLSMS
         {
 
         }
+
+        private void cmdDailySale_Click(object sender, EventArgs e)
+        {
+            frmDailySale ds = new frmDailySale();
+            ds.ShowDialog();
+        }
+
+        private void cmdMonthlySales_Click(object sender, EventArgs e)
+        {
+            frmMonthlySales ms = new frmMonthlySales();
+            ms.ShowDialog();
+        }
         
 
        

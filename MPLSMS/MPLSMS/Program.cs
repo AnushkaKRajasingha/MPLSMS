@@ -15,7 +15,7 @@ namespace MPLSMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAproveCredit());
+            Application.Run(new frmMPLMain());
         }
     }
 }

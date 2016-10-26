@@ -57,10 +57,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.cmdIPOClear = new System.Windows.Forms.Button();
             this.cmdPrint = new System.Windows.Forms.Button();
             this.cmdExit = new System.Windows.Forms.Button();
             this.cmdSave = new System.Windows.Forms.Button();
-            this.cmdIPOClear = new System.Windows.Forms.Button();
             this.groupBox4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgPurchaseOrder)).BeginInit();
             this.groupBox6.SuspendLayout();
@@ -190,7 +190,7 @@
             this.cboSupId.Name = "cboSupId";
             this.cboSupId.Size = new System.Drawing.Size(71, 21);
             this.cboSupId.TabIndex = 1;
-           
+            // 
             // txtUnit
             // 
             this.txtUnit.Location = new System.Drawing.Point(331, 123);
@@ -348,6 +348,22 @@
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = ";";
             // 
+            // cmdIPOClear
+            // 
+            this.cmdIPOClear.FlatAppearance.BorderSize = 0;
+            this.cmdIPOClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cmdIPOClear.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmdIPOClear.Image = global::MPLSMS.Properties.Resources.clear;
+            this.cmdIPOClear.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.cmdIPOClear.Location = new System.Drawing.Point(250, 11);
+            this.cmdIPOClear.Name = "cmdIPOClear";
+            this.cmdIPOClear.Size = new System.Drawing.Size(107, 52);
+            this.cmdIPOClear.TabIndex = 33;
+            this.cmdIPOClear.Text = "Clear";
+            this.cmdIPOClear.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.cmdIPOClear.UseVisualStyleBackColor = true;
+            this.cmdIPOClear.Click += new System.EventHandler(this.cmdIPOClear_Click);
+            // 
             // cmdPrint
             // 
             this.cmdPrint.FlatAppearance.BorderSize = 0;
@@ -362,6 +378,7 @@
             this.cmdPrint.Text = "Print";
             this.cmdPrint.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.cmdPrint.UseVisualStyleBackColor = true;
+            this.cmdPrint.Click += new System.EventHandler(this.cmdPrint_Click);
             // 
             // cmdExit
             // 
@@ -394,22 +411,6 @@
             this.cmdSave.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.cmdSave.UseVisualStyleBackColor = true;
             this.cmdSave.Click += new System.EventHandler(this.cmdSave_Click);
-            // 
-            // cmdIPOClear
-            // 
-            this.cmdIPOClear.FlatAppearance.BorderSize = 0;
-            this.cmdIPOClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.cmdIPOClear.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cmdIPOClear.Image = global::MPLSMS.Properties.Resources.clear;
-            this.cmdIPOClear.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.cmdIPOClear.Location = new System.Drawing.Point(250, 11);
-            this.cmdIPOClear.Name = "cmdIPOClear";
-            this.cmdIPOClear.Size = new System.Drawing.Size(107, 52);
-            this.cmdIPOClear.TabIndex = 33;
-            this.cmdIPOClear.Text = "Clear";
-            this.cmdIPOClear.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.cmdIPOClear.UseVisualStyleBackColor = true;
-            this.cmdIPOClear.Click += new System.EventHandler(this.cmdIPOClear_Click);
             // 
             // frmPO
             // 

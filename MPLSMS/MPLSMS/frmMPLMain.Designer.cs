@@ -566,6 +566,7 @@
             this.cmdMonthlySales.TabIndex = 2;
             this.cmdMonthlySales.Text = "Monthly Sales";
             this.cmdMonthlySales.UseVisualStyleBackColor = true;
+            this.cmdMonthlySales.Click += new System.EventHandler(this.cmdMonthlySales_Click);
             // 
             // cmdDailySale
             // 
@@ -576,6 +577,7 @@
             this.cmdDailySale.TabIndex = 2;
             this.cmdDailySale.Text = "Daily Sales";
             this.cmdDailySale.UseVisualStyleBackColor = true;
+            this.cmdDailySale.Click += new System.EventHandler(this.cmdDailySale_Click);
             // 
             // button3
             // 

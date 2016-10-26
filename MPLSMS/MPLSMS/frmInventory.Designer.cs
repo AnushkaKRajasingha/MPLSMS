@@ -69,6 +69,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dgInventory);
             this.Name = "frmInventory";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MARKSPEN LABELS - Inventory";
             this.Load += new System.EventHandler(this.frmInventory_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgInventory)).EndInit();

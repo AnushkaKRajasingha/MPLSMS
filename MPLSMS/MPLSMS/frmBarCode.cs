@@ -16,6 +16,7 @@ namespace MPLSMS
     public partial class frmBarCode : Form
     {
         FontEncoder encod = new FontEncoder();
+        public String barcode { get; set; }
         public frmBarCode()
         {
             InitializeComponent();
@@ -28,7 +29,11 @@ namespace MPLSMS
 
         private void frmBarCode_Load(object sender, EventArgs e)
         {
-         
+            rptBarcodePrint objRpt = new rptBarcodePrint();
+            objRpt.SetParameterValue(0, barcode);
+
+            crystalReportViewer1.ReportSource = objRpt;
+            crystalReportViewer1.Refresh();
         }
     }
 }

@@ -288,6 +288,13 @@ namespace MPLSMS
              Clear();
              dtSupPo.Clear();
          }
+
+         private void cmdPrint_Click(object sender, EventArgs e)
+         {
+             var _frmPrintPO = new frmPrintPO();
+             _frmPrintPO.POno = Convert.ToInt32(txtSupPONO.Text);
+             _frmPrintPO.ShowDialog();
+         }
         
        
     }

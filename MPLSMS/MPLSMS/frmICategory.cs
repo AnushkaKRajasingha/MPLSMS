@@ -39,6 +39,9 @@ namespace MPLSMS
 
             }
             Prefill();
+            cmdICatAdd.Enabled = true;
+            cmdICatDelete.Enabled = false;
+            CmdICatUpdate.Enabled = false;
             dgICat.Columns[1].Width = 400;
 
         }
@@ -60,6 +63,9 @@ namespace MPLSMS
          private void cmdICatClear_Click(object sender, EventArgs e)
          {
              Clear();
+             cmdICatAdd.Enabled = true;
+             cmdICatDelete.Enabled = false;
+             CmdICatUpdate.Enabled = false;
              txtICatName.Focus();
          }
 
@@ -173,6 +179,10 @@ namespace MPLSMS
          {
              txtICatID.Text = ds.Tables[0].Rows[dgICat.CurrentCell.RowIndex].ItemArray[0].ToString();
              txtICatName.Text = ds.Tables[0].Rows[dgICat.CurrentCell.RowIndex].ItemArray[1].ToString();
+
+             cmdICatDelete.Enabled = true;
+             CmdICatUpdate.Enabled = true;
+             cmdICatAdd.Enabled = false;
          }
     }
 }

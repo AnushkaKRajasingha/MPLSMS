@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmAproveCredit));
             this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.lblBlocked = new System.Windows.Forms.Label();
+            this.chkCusBlocked = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
             this.cboCusName = new System.Windows.Forms.ComboBox();
             this.cboCusId = new System.Windows.Forms.ComboBox();
@@ -38,11 +40,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
-            this.cmdEdit = new System.Windows.Forms.Button();
             this.cmdExit = new System.Windows.Forms.Button();
             this.cmdSave = new System.Windows.Forms.Button();
-            this.chkCusBlocked = new System.Windows.Forms.CheckBox();
-            this.lblBlocked = new System.Windows.Forms.Label();
             this.groupBox4.SuspendLayout();
             this.groupBox6.SuspendLayout();
             this.SuspendLayout();
@@ -61,9 +60,31 @@
             this.groupBox4.Controls.Add(this.groupBox6);
             this.groupBox4.Location = new System.Drawing.Point(12, 12);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(551, 250);
+            this.groupBox4.Size = new System.Drawing.Size(551, 212);
             this.groupBox4.TabIndex = 6;
             this.groupBox4.TabStop = false;
+            // 
+            // lblBlocked
+            // 
+            this.lblBlocked.AutoSize = true;
+            this.lblBlocked.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBlocked.ForeColor = System.Drawing.Color.DarkRed;
+            this.lblBlocked.Location = new System.Drawing.Point(368, 60);
+            this.lblBlocked.Name = "lblBlocked";
+            this.lblBlocked.Size = new System.Drawing.Size(150, 16);
+            this.lblBlocked.TabIndex = 29;
+            this.lblBlocked.Text = "Custemer Is Blocked";
+            // 
+            // chkCusBlocked
+            // 
+            this.chkCusBlocked.AutoSize = true;
+            this.chkCusBlocked.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chkCusBlocked.Location = new System.Drawing.Point(371, 97);
+            this.chkCusBlocked.Name = "chkCusBlocked";
+            this.chkCusBlocked.Size = new System.Drawing.Size(61, 19);
+            this.chkCusBlocked.TabIndex = 28;
+            this.chkCusBlocked.Text = "Block";
+            this.chkCusBlocked.UseVisualStyleBackColor = true;
             // 
             // label4
             // 
@@ -130,31 +151,15 @@
             // 
             // groupBox6
             // 
-            this.groupBox6.Controls.Add(this.cmdEdit);
             this.groupBox6.Controls.Add(this.cmdExit);
             this.groupBox6.Controls.Add(this.cmdSave);
-            this.groupBox6.Location = new System.Drawing.Point(90, 168);
+            this.groupBox6.Location = new System.Drawing.Point(90, 130);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Padding = new System.Windows.Forms.Padding(1);
-            this.groupBox6.Size = new System.Drawing.Size(389, 69);
+            this.groupBox6.Size = new System.Drawing.Size(282, 69);
             this.groupBox6.TabIndex = 2;
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = ";";
-            // 
-            // cmdEdit
-            // 
-            this.cmdEdit.FlatAppearance.BorderSize = 0;
-            this.cmdEdit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.cmdEdit.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cmdEdit.Image = global::MPLSMS.Properties.Resources.edit;
-            this.cmdEdit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.cmdEdit.Location = new System.Drawing.Point(134, 10);
-            this.cmdEdit.Name = "cmdEdit";
-            this.cmdEdit.Size = new System.Drawing.Size(107, 52);
-            this.cmdEdit.TabIndex = 21;
-            this.cmdEdit.Text = "Edit";
-            this.cmdEdit.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.cmdEdit.UseVisualStyleBackColor = true;
             // 
             // cmdExit
             // 
@@ -163,13 +168,14 @@
             this.cmdExit.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmdExit.Image = global::MPLSMS.Properties.Resources.exit;
             this.cmdExit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.cmdExit.Location = new System.Drawing.Point(263, 10);
+            this.cmdExit.Location = new System.Drawing.Point(142, 10);
             this.cmdExit.Name = "cmdExit";
             this.cmdExit.Size = new System.Drawing.Size(116, 52);
             this.cmdExit.TabIndex = 18;
             this.cmdExit.Text = "Exit";
             this.cmdExit.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.cmdExit.UseVisualStyleBackColor = true;
+            this.cmdExit.Click += new System.EventHandler(this.cmdExit_Click);
             // 
             // cmdSave
             // 
@@ -187,33 +193,11 @@
             this.cmdSave.UseVisualStyleBackColor = true;
             this.cmdSave.Click += new System.EventHandler(this.cmdSave_Click);
             // 
-            // chkCusBlocked
-            // 
-            this.chkCusBlocked.AutoSize = true;
-            this.chkCusBlocked.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkCusBlocked.Location = new System.Drawing.Point(371, 97);
-            this.chkCusBlocked.Name = "chkCusBlocked";
-            this.chkCusBlocked.Size = new System.Drawing.Size(61, 19);
-            this.chkCusBlocked.TabIndex = 28;
-            this.chkCusBlocked.Text = "Block";
-            this.chkCusBlocked.UseVisualStyleBackColor = true;
-            // 
-            // lblBlocked
-            // 
-            this.lblBlocked.AutoSize = true;
-            this.lblBlocked.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBlocked.ForeColor = System.Drawing.Color.DarkRed;
-            this.lblBlocked.Location = new System.Drawing.Point(368, 60);
-            this.lblBlocked.Name = "lblBlocked";
-            this.lblBlocked.Size = new System.Drawing.Size(150, 16);
-            this.lblBlocked.TabIndex = 29;
-            this.lblBlocked.Text = "Custemer Is Blocked";
-            // 
             // frmAproveCredit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(576, 276);
+            this.ClientSize = new System.Drawing.Size(576, 231);
             this.Controls.Add(this.groupBox4);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmAproveCredit";
@@ -237,7 +221,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.GroupBox groupBox6;
-        private System.Windows.Forms.Button cmdEdit;
         private System.Windows.Forms.Button cmdExit;
         private System.Windows.Forms.Button cmdSave;
         private System.Windows.Forms.CheckBox chkCusBlocked;

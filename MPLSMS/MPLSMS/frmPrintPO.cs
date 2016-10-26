@@ -9,18 +9,20 @@ using System.Windows.Forms;
 
 namespace MPLSMS
 {
-    public partial class frmDailySale : Form
+    public partial class frmPrintPO : Form
     {
-
-        public frmDailySale()
+        public int POno { get; set; }
+        public frmPrintPO()
         {
             InitializeComponent();
         }
 
-        private void frmDailySale_Load(object sender, EventArgs e)
+        private void frmPrintPO_Load(object sender, EventArgs e)
         {
-            rptDailySale objRpt = new rptDailySale();
-            // objRpt.SetParameterValue(0, String.Format("{0:yyyy-MM-dd}", this.Dailysale));
+
+            rptPrintPO objRpt = new rptPrintPO();
+            objRpt.SetParameterValue(0, POno);
+            //  objRpt.SetDataSource(ds_ID.Tables[0]);
             crystalReportViewer1.ReportSource = objRpt;
             crystalReportViewer1.Refresh();
         }

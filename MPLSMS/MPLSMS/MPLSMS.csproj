@@ -198,6 +198,12 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMonthlySales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonthlySales.Designer.cs">
+      <DependentUpon>frmMonthlySales.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMPLMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -215,6 +221,18 @@
     </Compile>
     <Compile Include="frmPO.Designer.cs">
       <DependentUpon>frmPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPOprint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPOprint.Designer.cs">
+      <DependentUpon>frmPOprint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintPO.Designer.cs">
+      <DependentUpon>frmPrintPO.cs</DependentUpon>
     </Compile>
     <Compile Include="frmReceipPrint.cs">
       <SubType>Form</SubType>
@@ -284,6 +302,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rptBarcodePrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBarcodePrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="rptDailySale.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -296,10 +320,34 @@
       <DependentUpon>rptGRNPrint.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="rptMonthlySales.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMonthlySales.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="rptPaymentSlip.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>rptPaymentSlip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPOPrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPOPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPOPrint1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPOPrint1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPrintPO.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPrintPO.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="rptSupDetailsRe.cs">
@@ -385,6 +433,9 @@
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMonthlySales.resx">
+      <DependentUpon>frmMonthlySales.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMPLMain.resx">
       <DependentUpon>frmMPLMain.cs</DependentUpon>
     </EmbeddedResource>
@@ -393,6 +444,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmPO.resx">
       <DependentUpon>frmPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPOprint.resx">
+      <DependentUpon>frmPOprint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintPO.resx">
+      <DependentUpon>frmPrintPO.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmReceipPrint.resx">
       <DependentUpon>frmReceipPrint.cs</DependentUpon>
@@ -440,6 +497,10 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="rptBarcodePrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBarcodePrint.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="rptDailySale.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>rptDailySale.cs</LastGenOutput>
@@ -448,9 +509,25 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>rptGRNPrint.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="rptMonthlySales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMonthlySales.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="rptPaymentSlip.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>rptPaymentSlip.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPOPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPOPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPOPrint1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPOPrint1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPrintPO.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPrintPO.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="rptSupDetailsRe.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>

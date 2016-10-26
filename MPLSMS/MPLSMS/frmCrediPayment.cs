@@ -37,6 +37,7 @@ namespace MPLSMS
                 return;
             }
             prefill();
+            cmdPrint.Enabled=false;
         }
 
         public void prefill()
@@ -168,26 +169,20 @@ namespace MPLSMS
             pInvID.Value = cboInvNo.Text;
             com1 = new SqlCommand("UPDATE MPLINVOICE SET INSTATUS='PAYED' WHERE INVOICENO=@InvID", SQLcon);
             com1.Parameters.Add(pInvID);
-            com1.ExecuteScalar();
-            
-            
-            
-            //da_INVID = new SqlDataAdapter("UPDATE MPLINVOICE SET INSTATUS='PAYED' WHERE INVOICENO=@InvID", SQLcon);
-            ////da_INVID.SelectCommand.Parameters.Add(pInvID)
-
-
+           
+            try
+            {
+                com1.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+                
+                MessageBox.Show(ex.Message);
+            }
             MessageBox.Show("Credit Payment Details ware added");
+            cmdPrint.Enabled = true;
 
 
-
-      //      [PAYDATE] pPayDate,pInvID,pPaytype,pAmount,pChkNo,pchkDate,pBank,pChkStatus
-      //,[INVID]
-      //,[PAYTYPE]
-      //,[AMOUNT]
-      //,[CHEQUENO]
-      //,[CHEQUEDATE]
-      //,[BANK]
-      //,[CHSTATUS]
         }
 
         private void cmdPrint_Click(object sender, EventArgs e)

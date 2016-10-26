@@ -93,6 +93,13 @@ namespace MPLSMS
 
 
         }
+        public void _clear()
+        {
+            //cboCusId.Text = "";
+            cboCusName.Text = "";
+            txtCreditLimit.Text = "";
+            txtOutstandingBalance.Text = "";
+        }
 
         private void cboCusId_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -161,18 +168,30 @@ namespace MPLSMS
             com.Parameters.Add(pCusID1);
             com.Parameters.Add(pCreditLimit);
             com.Parameters.Add(pCusStatus);
-            com.ExecuteScalar();
+           
             MessageBox.Show("Customer Credit Limit was Updated", "MARKSPEN LABELS - CUSTOMER");
 
             try
             {
-
+                 com.ExecuteScalar();
             }
             catch (Exception ex)
             {
 
                 MessageBox.Show(ex.Message);
             }
+            MessageBox.Show("Customer Credit Limit was Updated", "MARKSPEN LABELS - CUSTOMER");
+            _clear();
+        }
+
+        private void cmdExit_Click(object sender, EventArgs e)
+        {
+
+            if (MessageBox.Show("Are You Sure You Want to Exit", "Markspen Labels _ Aprove Credit", MessageBoxButtons.YesNo) == DialogResult.No)
+            {
+                return;
+            }
+            Application.Exit();
         }
     }
 
